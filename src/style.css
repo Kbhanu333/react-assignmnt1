@@ -1,0 +1,49 @@
+body{
+    background-image: linear-gradient(to bottom, rgb(112, 140, 140), pink 70%, rgb(199, 223, 215));
+}
+.heading{
+    text-shadow: 4px 2px 4px aqua;
+    text-align: center;
+    font-weight: 800;
+}
+.box3{
+    display: flex;
+    justify-content: center;
+}
+
+.btn{
+    margin: 50px;
+    padding: 20px;
+    border: solid black 3px;
+    background-color: aqua;
+    border-radius: 25px;
+}
+ 
+.btn:hover{
+    background-color: aqua;
+}
+.box4{
+    margin: 0 60px;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+
+}
+
+.card1{
+    background-color: aqua;
+    width: 500px;
+    height: 300px;
+    border: 5px solid black;
+    border-radius: 35px;
+    text-align: center;
+}
+.card2{
+    background-color: rgb(224, 102, 224);
+    width: 500px;
+    height: 300px;
+    border: 5px solid black;
+    border-radius: 35px;
+    text-align: center;
+    
+}
